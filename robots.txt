@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: 
 
-Sitemap: https://Tiktodz.github.io/sitemap.xml
+Sitemap: https://inexdroid.github.io/sitemap.xml
